@@ -3,7 +3,7 @@ library(tidyverse)
 
 
 # Gereinigter Datensatz laden ---------------------------------------------
-data_cleaned <- read_csv("data/clean/data_cleaned.csv")
+data_cleaned <- read_csv("data/clean/data_cleaned_r.csv")
 
 
 # Daten einsehen ----------------------------------------------------------
